@@ -1,12 +1,11 @@
 package com.mirrorcraft.superfurnace.Custom;
 
-import com.mirrorcraft.superfurnace.Regs;
+import com.mirrorcraft.superfurnace.setup.Regs;
 import net.minecraft.sounds.SoundEvent;
 import net.minecraft.sounds.SoundEvents;
 import net.minecraft.util.LazyLoadedValue;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.item.ArmorMaterial;
-import net.minecraft.world.item.Items;
 import net.minecraft.world.item.crafting.Ingredient;
 
 import java.util.function.Supplier;
