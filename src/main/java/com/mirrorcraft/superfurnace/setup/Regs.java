@@ -1,15 +1,14 @@
 package com.mirrorcraft.superfurnace.setup;
 
-import com.mirrorcraft.superfurnace.Custom.ObsidianArmor;
-import com.mirrorcraft.superfurnace.Custom.ObsidianTool;
+import com.mirrorcraft.superfurnace.Custom.Armor.ObsidianArmor;
+import com.mirrorcraft.superfurnace.Custom.tool.ObsidianTool;
 import com.mirrorcraft.superfurnace.SuperFurnace;
-import com.mirrorcraft.superfurnace.blockentity.TBlock;
-import com.mirrorcraft.superfurnace.blockentity.TBlockEntity;
+import com.mirrorcraft.superfurnace.blockentitys.entityblock.TBlock;
+import com.mirrorcraft.superfurnace.blockentitys.blockentity.TBlockEntity;
 
-import com.mirrorcraft.superfurnace.items.foods.OrdinaryFood;
+import com.mirrorcraft.superfurnace.Custom.food.OrdinaryFood;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.item.*;
-import net.minecraft.world.level.block.BaseEntityBlock;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.entity.BlockEntityType;
 import net.minecraft.world.level.block.state.BlockBehaviour;
