@@ -1,0 +1,22 @@
+{
+  "block.superfurnace.obsidian_block": "\u9ED1\u66DC\u77F3\u91D1\u5C5E\u65B9\u5757",
+  "block.superfurnace.t_block": "\u8BA1\u6570\u65B9\u5757",
+  "item.superfurnace.blue_core": "\u81EA\u7136\u5408\u91D1",
+  "item.superfurnace.magic_ingot": "\u9B54\u6CD5\u91D1\u5C5E",
+  "item.superfurnace.obsidian_apple": "\u9ED1\u66DC\u77F3\u82F9\u679C",
+  "item.superfurnace.obsidian_axe": "\u9ED1\u66DC\u77F3\u65A7",
+  "item.superfurnace.obsidian_boots": "\u9ED1\u66DC\u77F3\u9774",
+  "item.superfurnace.obsidian_chestplate": "\u9ED1\u66DC\u77F3\u76D4\u7532",
+  "item.superfurnace.obsidian_helmet": "\u9ED1\u66DC\u77F3\u5934\u76D4",
+  "item.superfurnace.obsidian_hoe": "\u9ED1\u66DC\u77F3\u9504",
+  "item.superfurnace.obsidian_ingot": "\u9ED1\u66DC\u77F3\u952D",
+  "item.superfurnace.obsidian_leggings": "\u9ED1\u66DC\u77F3\u62A4\u817F",
+  "item.superfurnace.obsidian_pickaxe": "\u9ED1\u66DC\u77F3\u9550",
+  "item.superfurnace.obsidian_shovel": "\u9ED1\u66DC\u77F3\u9539",
+  "item.superfurnace.obsidian_sword": "\u9ED1\u66DC\u77F3\u5251",
+  "item.superfurnace.tin_ingot": "\u9521\u952D",
+  "itemGroup.superfurnace": "\u8D85\u7EA7\u7194\u7089",
+  "message.superfurnace.counter.fail": "\u8BA1\u6570: %d",
+  "message.superfurnace.counter.success": "\u606D\u559C\u4E2D\u5956,\u53F7\u7801: %d",
+  "message.superfurnace.welcome": "\u6B22\u8FCE\u6E38\u73A9MOD"
+}
